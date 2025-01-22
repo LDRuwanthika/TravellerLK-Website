@@ -1,0 +1,49 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #C6FBDE;
+
+
+}
+
+.container-fluid .container {
+    background-color: #C6FBDE;
+}
+.container-fluid .container .text-center.text-uppercase {
+    font-family: "Lucida Bright", "Lucida Calligraphy", "Lucida Console", "Lucida Fax", "Lucida Handwriting", "Lucida Sans", "Lucida Sans Typewriter", "Lucida Sans Unicode";
+    border-style: double;
+    background-color: #C6FBDE;
+    font-size: 40px;
+}
+
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item {
+    background-color: #00CA8E;
+}
+.container-fluid .container footer {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: larger;
+}
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    background-color: #C6FBDE;
+}
+.card.col-md-4.col-lg-12 .card-body .card-title {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #00B780;
+    color: #FFFFFF;
+    font-weight: normal;
+}
+.container-fluid .container .text-justify {
+	background-color: #C6FBDE;
+    font-size: 25px;
+    font-style: oblique;
+    text-shadow: 0px 0px #000000;
+}
+

@@ -1,0 +1,51 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #C6FBDE;
+
+
+}
+
+.container-fluid .container {
+    background-color: #C6FBDE;
+}
+.container-fluid .container .text-center.text-uppercase {
+    font-family: "Lucida Bright", "Lucida Calligraphy", "Lucida Console", "Lucida Fax", "Lucida Handwriting", "Lucida Sans", "Lucida Sans Typewriter", "Lucida Sans Unicode";
+    border-style: double;
+    background-color: #C6FBDE;
+    font-size: 40px;
+}
+
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item {
+    background-color: #00CA8E;
+}
+.container-fluid .container footer {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: larger;
+}
+table tr td {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: large;
+    background-color: #DDFEF4;
+    color: #000000;
+}
+fieldset table tr th {
+    background-color: #DDFEF4;
+}
+
+form center fieldset {
+    background-color: #A2FDE1;
+}
+
+center fieldset input {
+    background-color: #C6FBDE;
+}
+center fieldset h3 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
